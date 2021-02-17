@@ -67,6 +67,23 @@ color:indigo;
 
     }
 
+.footer-top {
+ background: black;
+ color:blanchedalmond;
+ border-bottom: 1px solid #441212;
+ padding: 60px 0 30px 0;
+
+}
+
+.footer-top .social-links a {
+
+    width: 36px;
+    height: 36px;
+    background: black;
+
+}
+
+
 
 
 
